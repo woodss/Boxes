@@ -1,10 +1,7 @@
 /* 
-
 Simple Boxes Framework
 -------------------------------------------------------------------------------------------------------
-
 */
-
 
 .col10 { width:	10%; }
 .col20 { width:	20%; }
@@ -20,8 +17,9 @@ Simple Boxes Framework
 .col75 { width:	75%; }
 .col80 { width:	80%; }
 .col90 { width:	90%; }
-.col100 { width:	100%; }
+.col100 { width: 100%; }
 
+/* Column Definition Class */
 .col { float: left; }
 
 /* Clear the float parameters of any preceding containers */

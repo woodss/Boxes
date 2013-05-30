@@ -28,6 +28,6 @@ https://github.com/woodss/Boxes
 .clearFix { clear:	both; }
 
 /* Align the contents of a .col to the left | center | right */
-.col-contents-left { text-align:	right; }
+.col-contents-left { text-align:	left; }
 .col-contents-right { text-align:	right; }
 .col-contents-middle { text-align: center; }

@@ -1,12 +1,6 @@
 #Boxes
 =====
 
-##Steve Woods
-* _LaniLogic Technology Solutions Ltd_
-* steve@lanilogic.com
-* www.lanilogic.com
-* May 2013
-
 This is a very simple framework for setting up column-based layouts in CSS, which also allow
 you to very easily over-ride with responsive values simply by specifying a new width percentage
 for each column type.
@@ -44,4 +38,7 @@ to convert a 3 column section into a single column that will then stack
 
 Enjoy!
 
-*/
+###Steve Woods
+* _LaniLogic Technology Solutions Ltd_
+* steve@lanilogic.com
+* www.lanilogic.com

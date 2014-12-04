@@ -39,6 +39,6 @@ to convert a 3 column section into a single column that will then stack
 Enjoy!
 
 ###Steve Woods
-* _LaniLogic Technology Solutions Ltd_
-* steve@lanilogic.com
-* www.lanilogic.com
+* _SWOO_
+* steve@swoo.co.uk
+* www.swoo.co.uk
